@@ -26,7 +26,6 @@ This lab models a small enterprise network with separate Engineering, Finance, M
 - SW0 Fa0/3 ↔ SW2 Fa0/1
 - SW1 Fa0/4 ↔ SW2 Fa0/6 (redundant trunk)
 
-Add a screenshot of the final Packet Tracer topology to `screenshots/topology.png` when available.
 
 ## VLAN and IP Addressing Plan
 
@@ -99,7 +98,6 @@ Enterprise-Network-Design-and-Implementation/
     └── stp-failover.png
 ```
 
-The screenshot files above are suggested evidence to add; include only screenshots you have actually captured.
 
 ## How to Use
 
